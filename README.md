@@ -1,0 +1,2 @@
+# Offline_public_transport_delay_attribution_system
+An Offline Public Transport Delay Attribution System designed to analyze delays in buses or trains and determine possible causes without relying on real-time internet connectivity. The system processes historical schedules, route data, and environmental factors to identify and attribute delays, helping improve operational efficiency and planning.
